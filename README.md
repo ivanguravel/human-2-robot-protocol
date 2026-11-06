@@ -1,4 +1,4 @@
-# Agent 2 Robot Protocol
+# Human 2 Robot Protocol
 
 The A2R protocol is organized into 5 layers, each with a clear responsibility:
 
